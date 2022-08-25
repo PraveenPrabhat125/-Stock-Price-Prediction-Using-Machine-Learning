@@ -1,2 +1,2 @@
 # Stock-MArket-Forecasting
-D:\WhatsApp\Stock-MArket-Forecasting-master\Stock-MArket-Forecasting-master\stockprice_predict.ipynb
+Machine learning-based stock price forecasting allows investors to estimate the potential growth in value of a company's stock or other exchange-traded asset. Predicting stock prices is done with one goal in mind: making a killing. It is difficult to foresee the future performance of the stock market. Physical and psychological states, as well as reasonable and irrational conduct, and so on, all play a role in the foresight process.
